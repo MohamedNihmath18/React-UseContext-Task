@@ -6,8 +6,7 @@
 </p>
 
 ###
-
- <p align="1eft">Demo : https://cart-items-context.netlify.app</p> 
+ 
 
 ###
 
@@ -56,11 +55,12 @@
 ###
 
 <h2 align="left">Screen shoot</h2>
+![Screenshot (62)](https://github.com/MohamedNihmath18/React-UseContext-Task/assets/106542888/249119f6-c2dd-4975-b552-079cad1f37e3)
+
 
 ###
 
-![image](https://github.com/Prakash-V-S/Cart-Items-Context/assets/141955456/dcc60ba5-f00e-4270-9dd3-ac8635fb40b7)
-
+ 
 
 ## React + Vite
 
@@ -87,7 +87,4 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Feedback
-
-If you have any feedback, please reach out to me at prakashvs.official@gmail.com
-
+ 
